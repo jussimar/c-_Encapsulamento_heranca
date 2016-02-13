@@ -1,0 +1,5 @@
+c:\users\jussimar\documents\visual studio 2010\Projects\tema 3 - 1\tema 3 - 1\obj\x86\Debug\tema 3 - 1.exe
+c:\users\jussimar\documents\visual studio 2010\Projects\tema 3 - 1\tema 3 - 1\obj\x86\Debug\tema 3 - 1.pdb
+c:\users\jussimar\documents\visual studio 2010\Projects\tema 3 - 1\tema 3 - 1\bin\Debug\tema 3 - 1.exe
+c:\users\jussimar\documents\visual studio 2010\Projects\tema 3 - 1\tema 3 - 1\bin\Debug\tema 3 - 1.pdb
+C:\Users\Jussimar\Documents\Visual Studio 2010\Projects\tema 3 - 1\tema 3 - 1\obj\x86\Debug\tema3.csprojResolveAssemblyReference.cache
